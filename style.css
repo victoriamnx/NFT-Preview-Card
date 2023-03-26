@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+
+html,
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background-color: hsl(217, 54%, 11%);
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
+}
+
+.container {
+  align-self: center;
+  justify-self: center;
+  font-size: 18px;
+  font-family: "Outfit", sans-serif;
+  width: auto;
+  height: auto;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+#view {
+  position: absolute;
+  background-color: hsl(178, 100%, 50%, 0.5);
+  opacity: 0;
+  transition: 300ms all;
+  border-radius: 10px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#view img {
+  width: 52px;
+  height: 52px;
+}
+
+#view:hover {
+  opacity: 1;
+}
+
+.image img {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+#title h1 {
+  display: flex;
+  padding-top: 0px;
+  padding-bottom: 15px;
+  color: hsl(0, 0%, 100%);
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Outfit", sans-serif;
+}
+
+#title:hover h1 {
+  color: hsl(178, 100%, 50%);
+}
+
+#text p {
+  display: flex;
+  padding-bottom: 15px;
+  color: hsl(215, 51%, 70%);
+  font-size: 18px;
+  font-weight: 300;
+  font-family: "Outfit", sans-serif;
+}
+
+#timeleft {
+  align-items: center;
+  display: flex;
+  padding-bottom: 10px;
+}
+
+#timeleft img {
+  display: flex;
+  padding-right: 5px;
+  object-fit: contain;
+}
+
+#timeleft h1 {
+  display: flex;
+  color: hsl(178, 100%, 50%);
+  font-size: 15px;
+  font-weight: 600;
+  font-family: "Outfit", sans-serif;
+}
+
+#timeleft h2 {
+  display: flex;
+  padding-left: 100px;
+  color: hsl(215, 51%, 70%);
+  font-size: 15px;
+  font-weight: 300;
+  font-family: "Outfit", sans-serif;
+}
+
+hr {
+  height: 1px;
+  border: 0 none;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: hsl(215, 32%, 27%);
+}
+
+.avatar img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  width: 30px;
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 50%;
+}
+
+.avatar {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+}
+
+#creation {
+  align-items: center;
+  display: flex;
+}
+
+.avatar #creation h1 {
+  display: flex;
+  padding-left: 5px;
+  color: hsl(0, 0%, 100%);
+  font-size: 18px;
+  font-weight: 300;
+  font-family: "Outfit", sans-serif;
+}
+
+.avatar:hover #creation h1 {
+  color: hsl(178, 100%, 50%);
+}
+
+.avatar #creation p {
+  display: flex;
+  padding-left: 10px;
+  color: hsl(215, 51%, 70%);
+  font-size: 18px;
+  font-weight: 300;
+  font-family: "Outfit", sans-serif;
+}
+
+.attribution {
+  padding-top: 10px;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
