@@ -1,4 +1,4 @@
-♡ Frontend Mentor - NFT Preview Card Challenge
+# Frontend Mentor - NFT Preview Card Challenge
 
 This is a solution to the [NFT Preview Card Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
