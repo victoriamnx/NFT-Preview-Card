@@ -1,6 +1,6 @@
 ♡ Frontend Mentor - NFT Preview Card Challenge
 
-This is a solution to the [https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U].
+This is a solution to the [NFT Preview Card Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 # Table of contents
 
@@ -18,13 +18,13 @@ This is a solution to the [https://www.frontendmentor.io/challenges/nft-preview-
 
 # Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-6U1eV-PC8o]
-- Live Site URL: [https://nft-preview-challenge-gamma.vercel.app/]
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/nft-preview-card-6U1eV-PC8o)
+- Live Site URL: [NFT Preview card page](https://nft-preview-challenge-gamma.vercel.app/)
 
 # Built with
 
-- HTML5
-- CSS
+<img src="https://i.ibb.co/bLF1P6n/css-3.png" alt="CSS3" height="40" style="vertical-align:down; margin:4px"></a>
+<img src="https://i.ibb.co/Ch4SDLV/html-1.png" alt="HTML5" height="40" style="vertical-align:down; margin:4px"></a>
 
 # What I learned
 
@@ -33,9 +33,9 @@ In this challenge I had some difficulty making the hover effect on the image, bu
 # Author
 
 - Name - Victória Nogueira
-- Frontend Mentor - [https://www.frontendmentor.io/profile/victoriamnx]
-- GitHub - [https://github.com/victoriamnx]
+- [Frontend Mentor profile](https://www.frontendmentor.io/profile/victoriamnx)
+- [GitHub profile](https://github.com/victoriamnx)
 
 # Acknowledgments
 
-I would like to thank my programming and life partner, Sá (Poorwellz - https://github.com/Poowerllz) for all his help and support during the development of this challenge.
+I would like to thank my programming and life partner [Sá](https://github.com/Poowerllz), for all his help and support during the development of this challenge.
